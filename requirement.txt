@@ -1,0 +1,4 @@
+langchain
+huggingface_hub
+pytesseract
+pdf2image
